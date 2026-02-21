@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xuan (Ruby) Zhang"
-  avatar           : "images/ruby.jpg"
+  avatar           : "images/Ruby.jpg"
   bio              : "2077AI Foundation"
   location         : "Palo Alto, USA"
   employer         :
