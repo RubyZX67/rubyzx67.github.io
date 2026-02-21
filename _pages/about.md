@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2019.09 - 2025.09*, PhD, Zhejiang University, Hangzhou.
-- *2022.12 - 2025.09*，Joint PhD, Singapore-ETH Centre, Singapore.
+- *2022.12 - 2024.12*，Joint PhD, Singapore-ETH Centre, Singapore.
 - *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou.
 - *2012.09 - 2015.06*, Hangzhou No. 2 High School, Hangzhou.
 
