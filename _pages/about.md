@@ -33,7 +33,7 @@ My research interests lie at the intersection of spatial intelligence and embodi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cities 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cities 2025</div><img src='images/cities.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Analyzing the typology and livability of 15-minute travel at metro stations in high-density cities: A case study of Singapore](https://www.sciencedirect.com/science/article/abs/pii/S0264275125000277)
