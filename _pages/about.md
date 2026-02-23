@@ -36,7 +36,7 @@ My research interests lie at the intersection of spatial intelligence and embodi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cities 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Analyzing the typology and livability of 15-minute travel at metro stations in high-density cities: A case study of Singapore]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0264275125000277))
+[Analyzing the typology and livability of 15-minute travel at metro stations in high-density cities: A case study of Singapore](https://www.sciencedirect.com/science/article/abs/pii/S0264275125000277)
 
 **Xuan Zhang**, Lei Wang, Yang Yang, Haoying Han, Guoqiang Shen, Thomas Schroepfer, Jie He
 
@@ -48,7 +48,7 @@ My research interests lie at the intersection of spatial intelligence and embodi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Real-time sensor-based and self-reported emotional perceptions of urban green-blue spaces: exploring gender differences with FER and SAM]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0264275125000277))
+[Real-time sensor-based and self-reported emotional perceptions of urban green-blue spaces: exploring gender differences with FER and SAM] (https://www.sciencedirect.com/science/article/abs/pii/S0264275125000277)
 
 **Xuan Zhang**, Haoying Han, Guoqiang Shen
 
