@@ -27,7 +27,7 @@ My research interests lie at the intersection of spatial intelligence and embodi
 - Human-centric evaluation frameworks for embodied agents in open-ended city simulations.
 
 # 🔥 News
-**2077AI**
+**2077AI Foundation**
 - *2026.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2026!
 - *2026.01*: &nbsp;🎉🎉 Nine papers accepted to ICLR 2026!
 
