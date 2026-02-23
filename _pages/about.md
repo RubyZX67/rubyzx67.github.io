@@ -83,7 +83,7 @@ My research interests lie at the intersection of spatial intelligence and embodi
 
 # 💬 Invited Talks
 - *2024.11*, 57th ASA Conference at Golden Coast, Astralia.
-- *2024.09*, 14th ISAIA Conference at Kyoto, Japan | Best Report.
+- *2024.09*, 14th ISAIA Conference at Kyoto, Japan (Best Report).
 - *2024.07*, 2024 IACP Conference at Hangzhou, China.
 - *2023.10*, 2023 Future Cities Conference at Zurich, Switerland.
   
