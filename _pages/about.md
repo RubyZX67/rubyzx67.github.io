@@ -40,7 +40,7 @@ My research interests lie at the intersection of spatial intelligence and embodi
 
 **Xuan Zhang**, Lei Wang, Yang Yang, Haoying Han, Guoqiang Shen, Thomas Schroepfer, Jie He
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6B1w0FEAAAAJ&sortby=pubdate&citation_for_view=6B1w0FEAAAAJ:zYLM7Y9cAGgC) 
 - Integrated spatial accessibility, environmental quality, functional diversity, and flow variance for livability assessment. 
 </div>
 </div>
@@ -61,7 +61,7 @@ My research interests lie at the intersection of spatial intelligence and embodi
 
 - [Emotional-Health-Oriented Urban Design: A Novel Collaborative Deep Learning Framework for Real-Time Landscape Assessment by Integrating Facial Expression Recognition and Pixel-Level Semantic Segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6B1w0FEAAAAJ&sortby=pubdate&citation_for_view=6B1w0FEAAAAJ:W7OEmFMy1HYC), **Xuan Zhang**, Haoying Han, Lin Qiao, Jingwei Zhuang, Ziming Ren, Yang Su, Yiping Xia, **IJERPH 2022**
 
-- [Human-centric Interpretable Visual Evaluation of Urban Street based on Multimodal Perception Data: A Case Study of Shanghai](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6B1w0FEAAAAJ&sortby=pubdate&citation_for_view=6B1w0FEAAAAJ:eQOLeE2rZwMC), **Xuan Zhang**, Shuyang Li, Yining Zhang, Tianning Yao, Haoying Han, Liang Sun, Rudi Stouffs
+- [Human-centric Interpretable Visual Evaluation of Urban Street based on Multimodal Perception Data: A Case Study of Shanghai](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6B1w0FEAAAAJ&sortby=pubdate&citation_for_view=6B1w0FEAAAAJ:WF5omc3nYNoC), **Xuan Zhang**, Shuyang Li, Yining Zhang, Tianning Yao, Haoying Han, Liang Sun, Rudi Stouffs
 
 - [Evolution of Urban Street Greening Structure Based on Time Series Street View Data: A Case Study of the Central Urban Area of Shanghai](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6B1w0FEAAAAJ&sortby=pubdate&citation_for_view=6B1w0FEAAAAJ:Tyk-4Ss8FVUC), Wang Lei, **Xuan Zhang**, Haoying Han, He Jie, **Landscape Architecture 2024**
 
