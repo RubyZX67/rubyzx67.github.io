@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently the Research Development Lead at [2077AI Foundation](https://www.2077ai.com/), where we advance open-source multimodal AI research and collaborate on human-aligned reward modeling and multimodal reasoning pipelines. We actively support academic collaborations, research funding initiatives, and internship programs. For potential cooperation, please feel free to contact me at ruby@2077ai.com.
+I am currently the Research Development Lead at [2077AI Foundation](https://www.2077ai.com/), where we advance open-source multimodal AI research and collaborate on human-aligned reward modeling and multimodal reasoning pipelines. We actively support academic collaborations, research funding initiatives, and internship programs. For potential cooperation, please feel free to contact me at [ruby@2077ai.com] (mailto:ruby@2077ai.com).
 
 I received my Ph.D. in Architecture, specializing in spatial intelligence, from Zhejiang University (advised by Prof. Haoying Han). During my doctoral studies, I was also enrolled in the Joint Ph.D. Program at the [Singapore-ETH Centre](https://sec.ethz.ch/), Future Cities Laboratory (advised by Prof. Thomas Schroepfer). I obtained my Bachelor’s degree from [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/main.htm), Zhejiang University.
 
