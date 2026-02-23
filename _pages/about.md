@@ -57,13 +57,13 @@ My research interests lie at the intersection of spatial intelligence and embodi
 </div>
 </div>
 
-- [Evolution of Urban Street Greening Structure Based on Time Series Street View Data: A Case Study of the Central Urban Area of Shanghai](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6B1w0FEAAAAJ&sortby=pubdate&citation_for_view=6B1w0FEAAAAJ:Tyk-4Ss8FVUC), Wang Lei, **Xuan Zhang**, Haoying Han, He Jie, **Landscape Architecture 2024**
-
 - [Multimodal Perception-Driven Safety Analysis for Urban Street](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6B1w0FEAAAAJ&sortby=pubdate&citation_for_view=6B1w0FEAAAAJ:ufrVoPGSRksC), **Xuan Zhang**, Shuyang Li, Yining Zhang, Tianning Yao, Haoying Han, Liang Sun, Rudi Stouffs, **Future 2024**
 
 - [Emotional-Health-Oriented Urban Design: A Novel Collaborative Deep Learning Framework for Real-Time Landscape Assessment by Integrating Facial Expression Recognition and Pixel-Level Semantic Segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6B1w0FEAAAAJ&sortby=pubdate&citation_for_view=6B1w0FEAAAAJ:W7OEmFMy1HYC), **Xuan Zhang**, Haoying Han, Lin Qiao, Jingwei Zhuang, Ziming Ren, Yang Su, Yiping Xia, **IJERPH 2022**
 
 - [Human-centric Interpretable Visual Evaluation of Urban Street based on Multimodal Perception Data: A Case Study of Shanghai](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6B1w0FEAAAAJ&sortby=pubdate&citation_for_view=6B1w0FEAAAAJ:eQOLeE2rZwMC), **Xuan Zhang**, Shuyang Li, Yining Zhang, Tianning Yao, Haoying Han, Liang Sun, Rudi Stouffs
+
+- [Evolution of Urban Street Greening Structure Based on Time Series Street View Data: A Case Study of the Central Urban Area of Shanghai](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6B1w0FEAAAAJ&sortby=pubdate&citation_for_view=6B1w0FEAAAAJ:Tyk-4Ss8FVUC), Wang Lei, **Xuan Zhang**, Haoying Han, He Jie, **Landscape Architecture 2024**
 
 - [Effects of visual attributes of flower borders in urban vegetation landscapes on aesthetic preference and emotional perception](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6B1w0FEAAAAJ&sortby=pubdate&citation_for_view=6B1w0FEAAAAJ:YsMSGLbcyi4C), Jingwei Zhuang, Lin Qiao, **Xuan Zhang**, Yang Su, Yiping Xia, **IJERPH 2021**
 
