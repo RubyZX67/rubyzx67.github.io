@@ -57,6 +57,18 @@ My research interests lie at the intersection of spatial intelligence and embodi
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Real-time sensor-based and self-reported emotional perceptions of urban green-blue spaces: exploring gender differences with FER and SAM] (https://www.sciencedirect.com/science/article/abs/pii/S0264275125000277)
+
+**Xuan Zhang**, Haoying Han, Guoqiang Shen
+
+[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6B1w0FEAAAAJ&sortby=pubdate&citation_for_view=6B1w0FEAAAAJ:IjCSPb-OGe4C)) 
+- Integrated spatial accessibility, environmental quality, functional diversity, and flow variance for livability assessment. 
+</div>
+</div>
+
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
