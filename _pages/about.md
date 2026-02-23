@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Xuan (Ruby) Zhang, a researcher with a Ph.D. in spatial intelligence, 
+I am currently the Research Development Lead at 2077AI Foundation, where we advance open-source multimodal AI research and collaborate on human-aligned reward modeling and multimodal reasoning pipelines. We actively support academic collaborations, research funding initiatives, and internship programs. For potential cooperation, please feel free to contact me at ruby@2077ai.com.
 
-My research focuses on bridging urban-scale multimodal perception with embodied AI systems. Currently, as the Research Development Lead at 2077AI, I advance open-source multimodal AI initiatives and collaborate on human-aligned reward modeling and reasoning pipelines.
-Particularly, I am interested in
+I received my Ph.D. in Architecture, specializing in Spatial Intelligence, from Zhejiang University (advised by Prof. Haoying Han). During my doctoral studies, I was also enrolled in the Joint Ph.D. Program at the Singapore-ETH Centre, Future Cities Laboratory (advised by Prof. Thomas Schroepfer). I obtained my Bachelor’s degree from Chu Kochen Honors College, Zhejiang University.
 
+My research interests lie at the intersection of spatial intelligence and embodied AI, with a focus on:
 - Large-scale simulated urban worlds integrating physical and social dynamics.
 - LLM/VLM-driven agents capable of perceiving, reasoning, and acting in rich spatial environments.
 - Human-centric evaluation frameworks for embodied agents in open-ended city simulations.
@@ -33,15 +33,27 @@ Particularly, I am interested in
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Cities 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Analyzing the typology and livability of 15-minute travel at metro stations in high-density cities: A case study of Singapore]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0264275125000277))
 
-**Xuan Zhang**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xuan Zhang**, Lei Wang, Yang Yang, Haoying Han, Guoqiang Shen, Thomas Schroepfer, Jie He
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+- Integrated spatial accessibility, environmental quality, functional diversity, and flow variance for livability assessment. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Real-time sensor-based and self-reported emotional perceptions of urban green-blue spaces: exploring gender differences with FER and SAM]([https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf](https://www.sciencedirect.com/science/article/abs/pii/S0264275125000277))
+
+**Xuan Zhang**, Haoying Han, Guoqiang Shen
+
+[**Project**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6B1w0FEAAAAJ&sortby=pubdate&citation_for_view=6B1w0FEAAAAJ:IjCSPb-OGe4C)) 
+- Integrated spatial accessibility, environmental quality, functional diversity, and flow variance for livability assessment. 
 </div>
 </div>
 
@@ -57,5 +69,18 @@ Particularly, I am interested in
 - *2015.09 - 2019.06*, Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy, Hangzhou, China.
 - *2012.09 - 2015.06*, Hangzhou No. 2 High School, Hangzhou, China.
 
-# 💻 Exchange Programs
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Invited Talks
+- *2024.11*, 57th ASA Conference at Golden Coast, Astralia.
+- *2024.09*, 14th ISAIA Conference at Kyoto, Japan | Best Report.
+- *2024.07*, 2024 IACP Conference at Hangzhou, China.
+- *2023.10*, 2023 Future Cities Conference at Zurich, Switerland.
+  
+# 💻 Internships
+- *2022.12 - 2025.09*, Singapore-ETH Centre, Singapore.
+- *2022.12 - 2025.09*, City University of Macau, China.
+- *2019.09 - 2022.12*, Chiba University, Japan.
+- *2021.01 - 2021.06*, University of Copenhagen, Denmark.
+- *2019.06 - 2019.09*, North Carolina State University, United States.
+- *2018.09 - 2018.10*, National University of Singapore, Singapore.
+- *2018.06 - 2018.08*, University of Bucharest, Romania.
+- *2017.07 - 2017.08*, The University of Manchester, United Kingdom.
