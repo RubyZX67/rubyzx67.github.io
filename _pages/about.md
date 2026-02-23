@@ -29,7 +29,7 @@ My research interests lie at the intersection of spatial intelligence and embodi
 # 🔥 News
 **2077AI**
 - *2026.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2026!
-- *2026.01*: &nbsp;🎉🎉 Nine paper accepted to ICLR 2026!
+- *2026.01*: &nbsp;🎉🎉 Nine papers accepted to ICLR 2026!
 
 # 📝 Publications 
 
